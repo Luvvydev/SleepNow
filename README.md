@@ -5,7 +5,7 @@
 
 macOS sleep is unreliable if you use a trackpad or a high-sensitivity mouse.
 
-After clicking **Sleep**, tiny input drift often cancels the action. The system wakes itself immediately, forcing you to retry, stop moving your hands, or wait awkwardly. This is not user error. It is a known interaction between the window server and input devices.
+After clicking **Sleep**, tiny input drift often cancels the action. The system wakes itself immediately, forcing you to retry, stop moving your hands, or wait awkwardly.
 
 This project exists to solve that exact problem, cleanly and permanently.
 ---
