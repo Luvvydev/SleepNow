@@ -35,9 +35,7 @@ Save this in Script Editor as:
 People who:
 - Are tired of macOS canceling sleep
 - Use sensitive mice or trackpads
-- Want deterministic behavior
-- Prefer simple, inspectable solutions
-- Do not want background utilities or menu bar clutter
+
 
 ---
 
