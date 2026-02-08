@@ -26,7 +26,7 @@ end run
 
 Save this in Script Editor as:
 - File Format: Application
-- Name: SleepNow
+- Name: SleepNow 
 
 ---
 
